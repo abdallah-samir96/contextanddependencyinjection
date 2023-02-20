@@ -2,6 +2,7 @@
 ##############################
 ## Java
 ##############################
+.idea
 .mtj.tmp/
 compiler.xml
 encodings.xml
