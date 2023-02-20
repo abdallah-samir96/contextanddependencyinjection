@@ -6,6 +6,7 @@ public class Main {
 
         A a = new A();
         B b = new B();
+        System.out.println("The b is ");
 
 
     }
